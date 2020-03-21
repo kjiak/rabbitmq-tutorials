@@ -7,4 +7,4 @@ Emit/Route messages selectively to receivers <br>
 ./emit_log_direct.js error "Run. Run. Or it will explode." <br>
 
 # Credits
-RabbitMQ-Tutorials
+RabbitMQ-Tutorials - https://www.rabbitmq.com/getstarted.html
